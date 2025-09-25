@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Warrenxzzz
-- 👀 I’m interested in designing video games and Star Wars!
-- 🌱 I’m currently learning how to code.
-- 💞️ I’m looking to collaborate on an Indie Game
+- 👀 I’m interested in designing helpful applications!
+- 🌱 I’m currently learning how to code(obviously)
+- 💞️ I’m looking to increase my knowledge of computer science!
 - 📫 HMU for request!
 
 <!---
